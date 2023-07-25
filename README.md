@@ -3,7 +3,7 @@
 👩🏻‍💻 Hi and welcome to my little coding nook! <br><br>I'm Nastia, your Copenhagen-based Frontend Developer, who loves to figure things out, bring life to designs, and ensure they remain fabulous and functional on all devices. <br><br>I am not very opinionated about frameworks and libraries (yet) but at the moment I’m using:<br>Vanilla JavaScript, React, TypeScript, HTML5, CSS3, Tailwind, Next.js<br><br>When I’m not coding or putting time and sweat into understanding a new algorithm/library/style selector, I love to:<br><li>get my legs in motion via running (range: 3km — 42km) and hiking (Austria, UK, Portugal, Italy) 🥾🏞️<br><li>geek out on pour-over coffee (it’s a little obsession by now but so be it) ☕️🤓 <br><li>find joy with my two dogs in the little things (like belly rubs and trick-treats routines!) 🐕🐾 <br><br>
 
 <img src="https://github.com/nastiakarpova/nastiakarpova/assets/106254608/bab8009c-9741-4587-b5fb-35d58e37acf6" width="30px">
-Currently, I'm <b>on the lookout for a new tech adventure and a fantastic team to collaborate with.</b> <br>Let's join forces and create cool projects together!<br><br>
+Currently, I'm <b>on the lookout for a new tech adventure and a driven team to collaborate with.</b> <br>Let's join forces and create cool projects together!<br><br>
 
 ## 🕸️ Web Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/react-4B9DF4.svg?style=for-the-badge&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 

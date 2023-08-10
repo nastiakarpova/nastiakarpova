@@ -1,7 +1,8 @@
 # About:
 
 👩🏻‍💻 Hi and welcome to my little coding nook! <br><br>I'm Nastia, your Copenhagen-based Frontend Developer, who would love to help you with your business goals via research, engineering, and development. I love to figure things out, bring life to designs, and ensure they remain cool and functional on all devices. 
-<br><br>I am not very opinionated about frameworks and libraries — check my tech stack below to see what I'm currently using. I have a curious mind and am ready to pick up a new technology or concept.<br><br>When I’m not coding or putting time and sweat into understanding a new algorithm/library/style selector, I love to:
+<br><br>I am not very opinionated about frameworks and libraries; I have a curious mind and am ready to pick up a new technology or concept. <br> For the most up-to-date tech I'm using — check the stack just a little below. 
+<br><br>When I’m not coding or putting time and sweat into understanding a new algorithm/library/style selector, I love to:
 <br> 
 🥾 &nbsp;get my legs in motion via running (range: 3km — 42km) and hiking (Austria, UK, Portugal, Italy) <br>
 ☕️ &nbsp;geek out on pour-over coffee (it’s a little obsession by now but so be it) <br>
